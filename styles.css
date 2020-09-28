@@ -3,6 +3,26 @@
 		font-family: Arial, Helvetical, sans-serif; 
 }
 
+
+.assignment {
+	display: flex; 
+	padding: 10px; 
+	margin: 10px; 
+	background: lightgray;  
+
+	
+}
+
+
+
+.assignment img {
+	
+	padding: 10px; 
+	width: 350px;
+	height: 350px; 
+
+}
+
 h1 {
 		text-align: center;
 }
